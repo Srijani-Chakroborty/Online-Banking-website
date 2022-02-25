@@ -1,5 +1,7 @@
 # Online-Banking-website
 
+<a href="https://github.com/Srijani-Chakroborty/Online-Banking-website/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
+
 An online banking website named Your Finanace Bank is created using HTML, CSS, JavaScript and Php, where user can interact with the system .
 User can do some banking operations like deposite money, tranfer money to another account, view or check balance, change password.
 Before doing such operations first user need to log in with their correct account number and password.
@@ -35,7 +37,7 @@ Any kind of contributions are welcome.
 5. Submit a Pull request so that I can review your changes
 
 ## License
-
+```Groovy
 MIT License
 
 Copyright (c) 2022 Srijani Chakroborty
